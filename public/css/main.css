@@ -1,0 +1,17 @@
+
+
+.container{
+    display: flex;
+}
+.main-contents{
+    width: 75%;
+    height: 1000px;
+    background-color: red;
+
+}
+
+.sub-contents{
+    width: 25%;
+    height: 1000px;
+    background-color: blue;
+}
