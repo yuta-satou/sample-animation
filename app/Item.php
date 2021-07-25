@@ -8,5 +8,6 @@ class Item extends Model
 {
 
   //サンプル
-
+  //コメント作成
+  
 }
